@@ -1,0 +1,12 @@
+html, body, .container-fluid {
+    height: 100%;
+  }
+
+  .bg-danger-hover {
+    background-color: red !important;
+  }
+  
+  .bg-success-hover {
+    background-color: green !important;
+  }
+  
